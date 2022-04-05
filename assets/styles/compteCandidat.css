@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,200;0,300;0,400;1,300&display=swap');
+.account-text {
+    font-size: 20px;
+    line-height: 32px;
+    color: #700598;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.signUp-box {
+    border-radius: 4px;
+    height: 100%;
+}
+
+.description {
+    font-size: 16px;
+    font-style: italic;
+}
+
+.disponibiliteYes.active {
+    display: none;
+}
